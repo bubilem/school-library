@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="www/css/style.min.css" />
+    <title>{title}</title>
+  </head>
+
+  <body>
+    <header>
+      <button id="menu-button" class="tip">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <h1>{title}</h1>
+      <div id="book-count"></div>
+    </header>
+    <main>
+      <div id="books"></div>
+      <div id="menu">
+        <div class="filter">
+          <div>
+            <h3>Vyhledávání</h3>
+            <div>
+              <input
+                id="filter-text"
+                type="text"
+                value=""
+                maxlength="30"
+                placeholder="Hledejte v názvech i autorech."
+              />
+            </div>
+          </div>
+          <div>
+            <h3>Oddělení</h3>
+            <div>{filter-dep}</div>
+          </div>
+          <div>
+            <h3>Jazyk</h3>
+            <div>{filter-lng}</div>
+          </div>
+          <div>
+            <h3>Žánr</h3>
+            <div>{filter-gnr}</div>
+          </div>
+          <div>
+            <h3>Obtížnost</h3>
+            <div>{filter-dfc}</div>
+          </div>
+        </div>
+      </div>
+    </main>
+    <footer>
+      <div>{title}</div>
+      <div>{version}</div>
+      <div>{webmaster}</div>
+    </footer>
+    <script src="www/js/app.js"></script>
+  </body>
+</html>

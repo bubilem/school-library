@@ -1,0 +1,52 @@
+body {
+  font-size: 12pt;
+  font-family: "Noto Serif", Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: $normal-weight;
+  color: #fff;
+  background: rgb(76, 74, 72) linear-gradient(180deg, rgb(76, 74, 72), rgb(56, 60, 62)) fixed;
+}
+small {
+  position: relative;
+  top: -3px;
+  opacity: 0.5;
+  font-size: 0.8em;
+}
+a {
+  text-decoration: underline;
+  color: rgb(125, 205, 224);
+}
+header,
+footer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+}
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3em;
+  padding: 0 1.5em;
+  background: rgb(45, 125, 154);
+  box-shadow: 0 0 4px 2px rgba(0, 0, 0, 0.2);
+  z-index: 999;
+  h1 {
+    font-size: 1.1em;
+    letter-spacing: 0.25em;
+    font-weight: $bold-weight;
+  }
+}
+footer {
+  font-size: 0.8em;
+  padding: 2em 1.5em;
+  background: rgba(0, 0, 0, 0.1);
+}
+main {
+  margin-top: 3em;
+  padding: 2em 1.5em;
+  position: relative;
+}

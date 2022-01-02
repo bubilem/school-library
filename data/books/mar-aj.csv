@@ -1,0 +1,135 @@
+id;isbn;name;author;publishing;year;language;pageCount;price;difficulty;wordCount;level;genre1;genre2;accessories
+MAR-AJ-0001;;Gulliver's Travels;Jonathan Swift;Pearson;2008;British English;48; 155 Kè ;2;600;A2;Classic literature;Adventure;
+MAR-AJ-0002;;Gulliver's Travels;Jonathan Swift;Pearson;2008;British English;48; 155 Kè ;2;600;A2;Classic literature;Adventure;
+MAR-AJ-0003;;A Christmas Carol;Charles Dickens;Pearson;2008;British English;44; 155 Kè ;2;600;A2;Classic literature;Cultural and social issues;
+MAR-AJ-0004;;A Christmas Carol;Charles Dickens;Pearson;2008;British English;44; 155 Kè ;2;600;A2;Classic literature;Cultural and social issues;
+MAR-AJ-0005;;Of Mice and Men;John Steinbeck;Pearson;2008;American English;56; 155 Kè ;2;600;A2;Classic literature;Cultural and social issues;
+MAR-AJ-0006;;Of Mice and Men;John Steinbeck;Pearson;2008;American English;56; 155 Kè ;2;600;A2;Classic literature;Cultural and social issues;
+MAR-AJ-0007;;Three Short Stories of Sherlock Holmes;Sir Arthur Conan Doyle;Pearson;2008;British English;56; 155 Kè ;2;600;A2;Classic literature;Crime/Mystery;
+MAR-AJ-0008;;Three Short Stories of Sherlock Holmes;Sir Arthur Conan Doyle;Pearson;2008;British English;56; 155 Kè ;2;600;A2;Classic literature;Crime/Mystery;
+MAR-AJ-0009;;Simply Suspense;Frank Stockton;Pearson;2008;British English;56; 172 Kè ;2;600;A2;Short stories;Thriller;Audio CD
+MAR-AJ-0010;;Simply Suspense;Frank Stockton;Pearson;2008;British English;56; 172 Kè ;2;600;A2;Short stories;Thriller;Audio CD
+MAR-AJ-0011;;Extreme Sports;Michael Dean;Pearson;2008;American English;36; 155 Kè ;2;600;A2;Non-fiction;Adventure;
+MAR-AJ-0012;;Extreme Sports;Michael Dean;Pearson;2008;American English;36; 155 Kè ;2;600;A2;Non-fiction;Adventure;
+MAR-AJ-0013;;Stories of Other Worlds;Herbert George Wells;Pearson;2015;British English;64; 172 Kè ;2;600;A2;Short stories;Sci-fi/Fantasy;Audio CD
+MAR-AJ-0014;;Parallel;Colin Campbell;Cambridge;2004;British English;32; 165 Kè ;1;400;A1;Thriller;;Downloadable audio
+MAR-AJ-0015;;Within High Fences;Penny Hancock;Cambridge;2005;British English;48; 165 Kè ;2;800;A2;Romance;;Downloadable audio
+MAR-AJ-0016;;Superbird;Brian Tomlinson;Cambridge;1999;British English;48; 165 Kè ;2;800;A2;Sci-fi/Fantasy;;Downloadable audio
+MAR-AJ-0017;;Double Cross;Philip Prowse;Cambridge;1999;British English;64; 165 Kè ;3;1300;B1;Thriller;;Downloadable audio
+MAR-AJ-0018;;Ironing Man;Colin Campbell;Cambridge;1999;British English;63; 130 Kè ;3;1300;B1;Comedy;;Downloadable audio
+MAR-AJ-0019;;Wild Country;Margaret Johnson;Cambridge;2007;British English;64; 130 Kè ;3;1300;B1;Romance;;Downloadable audio
+MAR-AJ-0020;;How I Met Myself;David Hill;Cambridge;2001;British English;64; 165 Kè ;3;1300;B1;Ghost story;;Downloadable audio
+MAR-AJ-0021;;Berlin Express;Michael Austen;Cambridge;2010;British English;80; 165 Kè ;4;1900;B1/B2;Thriller;;Downloadable audio
+MAR-AJ-0022;;Fruitcake Special and Other Stories;Frank Brennan;Cambridge;2000;British English;78; 165 Kè ;4;1900;B1/B2;Short stories;;
+MAR-AJ-0023;;Staying Together;Judith Wilson;Cambridge;2001;British English;80; 165 Kè ;4;1900;B1/B2;Romance;;Downloadable audio
+MAR-AJ-0024;;Dragons´ Eggs;Julia Morgan Newsome;Cambridge;2010;British English;96; 165 Kè ;5;2800;B2;Human interest;;Downloadable audio
+MAR-AJ-0025;;Dolphin Music;Antoinette Moses;Cambridge;1999;British English;96; 165 Kè ;5;2800;B2;Thriller;;Downloadable audio
+MAR-AJ-0026;;Solo Saxophone;Jeremy Harmer;Cambridge;2011;British English;112; 165 Kè ;6;3800;C1;Human interest;;Downloadable audio
+MAR-AJ-0027;;Trumpet Voluntary;Jeremy Harmer;Cambridge;1999;British English;111; 165 Kè ;6;3800;C1;Thriller;;Downloadable audio
+MAR-AJ-0028;;Dangerous Sky;Michael Austen;Cambridge;2013;British English;112; 165 Kè ;6;3800;C1;Human interest;;Downloadable audio
+MAR-AJ-0029;;The Caribbean File ;Richard MacAndrew;Cambridge;2013;British English;32; 139 Kè ;1;400;A1;Thriller;;Downloadable audio
+MAR-AJ-0030;;Three Tomorrows;Frank Brennan;Cambridge;2007;British English;32; 150 Kè ;1;400;A1;Short stories;;Downloadable audio
+MAR-AJ-0031;;Help!;Philip Prowse;Cambridge;1999;British English;32; 139 Kè ;1;400;A1;Comedy;;Downloadable audio
+MAR-AJ-0032;;Jojo's Story;Antoinette Moses;Cambridge;2000;British English;48; 150 Kè ;2;800;A2;Human interest;;Downloadable audio
+MAR-AJ-0033;;One Day;Helen Naylor;Cambridge;2008;British English;48; 150 Kè ;2;800;A2;Human interest;;Downloadable audio
+MAR-AJ-0034;;Dead Cold;Sue Leather;Cambridge;2006;American English;48; 150 Kè ;2;800;A2;Crime/Mystery;;Downloadable audio
+MAR-AJ-0035;;The New Zealand File;Richard MacAndrew;Cambridge;2009;British English;48; 138 Kè ;2;800;A2;Thriller;;Downloadable audio
+MAR-AJ-0036;;Apollo's Gold;Antoinette Moses;Cambridge;1999;British English;48; 150 Kè ;2;800;A2;Adventure;;Downloadable audio
+MAR-AJ-0037;;Circle Games;Frank Brennan;Cambridge;2005;British English;48; 150 Kè ;2;800;A2;Short stories;;Downloadable audio
+MAR-AJ-0038;;Not Above the Law;Richard MacAndrew;Cambridge;2010;British English;64; 150 Kè ;3;1300;B1;Crime/Mystery;;Downloadable audio
+MAR-AJ-0039;;Strong Medicine;Richard MacAndrew;Cambridge;2007;British English;64; 150 Kè ;3;1300;B1;Crime/Mystery;;Downloadable audio
+MAR-AJ-0040;;Tales of the Supernatural;Frank Brennan;Cambridge;2004;British English;64; 150 Kè ;3;1300;B1;Short stories;;Downloadable audio
+MAR-AJ-0041;;The House by the Sea;Patricia Aspinall;Cambridge;1999;British English;64; 150 Kè ;3;1300;B1;Thriller;;Downloadable audio
+MAR-AJ-0042;;Nothing but the Truth;George Kershaw;Cambridge;1999;British English;80; 150 Kè ;4;1900;B1/B2;Adventure;;Downloadable audio
+MAR-AJ-0043;;Man Hunt;Richard MacAndrew;Cambridge;2012;British English;80; 150 Kè ;4;1900;B1/B2;Crime/Mystery;;Downloadable audio
+MAR-AJ-0044;;The Sugar Glider;Rod Nielsen;Cambridge;2003;British English;96; 150 Kè ;5;2800;B2;Adventure;;Downloadable audio
+MAR-AJ-0045;;Windows of the Mind;Frank Brennan;Cambridge;2001;British English;96; 150 Kè ;5;2800;B2;Short stories;;Downloadable audio
+MAR-AJ-0046;;Ten Long Years;Alan Battersby;Cambridge;2013;American English;32; 139 Kè ;1;400;A1;Thriller;;Downloadable audio
+MAR-AJ-0047;;Don't Stop Now!;Philip Prowse;Cambridge;2005;British English;32; 150 Kè ;1;400;A1;Thriller;;
+MAR-AJ-0048;;Different Worlds ;Margaret Johnson;Cambridge;2003;British English;48; 150 Kè ;2;800;A2;Romance;;Downloadable audio
+MAR-AJ-0049;; The Dark Side of the City;Alan Battersby;Cambridge;2012;American English;48; 150 Kè ;2;800;A2;Thriller;;Downloadable audio
+MAR-AJ-0050;;Bad Company ;Richard MacAndrew;Cambridge;2011;British English;48; 139 Kè ;2;800;A2;Crime/Mystery;;Downloadable audio
+MAR-AJ-0051;;Just Good Friends;Penny Hancock;Cambridge;1999;British English;64; 150 Kè ;3;1300;B1;Romance;;
+MAR-AJ-0052;;The Beast ;Carolyn Walker;Cambridge;2001;British English;64; 150 Kè ;3;1300;B1;Horror/Fantasy;;Downloadable audio
+MAR-AJ-0053;;A Puzzle for Logan;Richard MacAndrew;Cambridge;2001;British English;64; 150 Kè ;3;1300;B1;Crime/Mystery;;Downloadable audio
+MAR-AJ-0054;;Eye of the Storm;Mandy Loader;Cambridge;2003;American English;64; 150 Kè ;3;1300;B1;Thriller;;Downloadable audio
+MAR-AJ-0055;;Love in the Lakes;Penny Hancock;Cambridge;2008;British English;80; 150 Kè ;4;1900;B1/B2;Romance;;Downloadable audio
+MAR-AJ-0056;;The Lady in White;Colin Campbell;Cambridge;1999;British English;80; 150 Kè ;4;1900;B1/B2;Ghost story;;Downloadable audio
+MAR-AJ-0057;;The University Murders;Richard MacAndrew;Cambridge;2003;British English;80; 150 Kè ;4;1900;B1/B2;Crime/Mystery;;Downloadable audio
+MAR-AJ-0058;;When Summer Comes;Helen Naylor;Cambridge;1999;British English;80; 150 Kè ;4;1900;B1/B2;Human interest;;Downloadable audio
+MAR-AJ-0059;;Emergency Murder ;Janet McGiffin;Cambridge;2003;American English;96; 150 Kè ;5;2800;B2;Crime/Mystery;;Downloadable audio
+MAR-AJ-0060;;In the Shadow of the Mountain;Helen Naylor;Cambridge;1999;British English;96; 150 Kè ;5;2800;B2;Human interest;;Downloadable audio
+MAR-AJ-0061;;Better Late Than Never;Julia Morgan Newsome;Cambridge;2013;British English;96; 139 Kè ;5;2800;B2;Thriller;;Downloadable audio
+MAR-AJ-0062;;He Knows Too Much;Alan Maley;Cambridge;1999;British English;112; 150 Kè ;6;3800;C1;Human interest;;Downloadable audio
+MAR-AJ-0063;;Nelson's Dream;Julia Morgan Newsome;Cambridge;2008;British English;112; 150 Kè ;6;3800;C1;Human interest;;Downloadable audio
+MAR-AJ-0064;;Journey to the Centre of the Earth;Jules Verne;Black Cat;2011;British English;112; 216 Kè ;3;1200;B1;Classic literature;Adventure;Audio CD
+MAR-AJ-0065;;The Jumping Frog;Mark Twain;Black Cat;2004;American English;96; 234 Kè ;3;1200;B1;Classic literature;Comedy;Audio CD
+MAR-AJ-0066;;The 1,000,000 Banknote;Mark Twain;Black Cat;2008;American English;96; 234 Kè ;3;1200;B1;Classic literature;Comedy;Audio CD
+MAR-AJ-0067;;The Greatest Invention of All Time;Nic Harris;Cambridge;2014;American English;24; 230 Kè ;2;700;A2;Non-fiction;;Online video
+MAR-AJ-0068;;Aliens: Is Anybody Out There?;Genevieve Kocienda;Cambridge;2014;American English;24; 230 Kè ;2;700;A2;Non-fiction;;Online video
+MAR-AJ-0069;;Life Online: The Digital Age;Kathryn O'dell;Cambridge;2014;American English;28; 230 Kè ;2;900;A2;Non-fiction;;Online video
+MAR-AJ-0070;;Weird Weapons;Helen Parker;Cambridge;2014;American English;28; 230 Kè ;3;1200;B1;Non-fiction;;Online video
+MAR-AJ-0071;;Rescued: The Chilean Mining Accident;Diane Naughton;Cambridge;2014;American English;28; 230 Kè ;3;1400;B1;Non-fiction;;Online video
+MAR-AJ-0072;;London;Jane Rollason;Cambridge;2014;British English;64; 139 Kè ;2;800;A2;Non-fiction;;Downloadable audio
+MAR-AJ-0073;;The Picture of Dorian Gray;Oscar Wilde;Oxford;2016;British English;80; 191 Kè ;3;1000;B1;Horror/Fantasy;;Audio CD
+MAR-AJ-0074;;Scotland;Richard MacAndrew;Cambridge;2009;British English;80; 150 Kè ;3;1300;B1;Non-fiction;;Downloadable audio
+MAR-AJ-0075;;The Call of the Wild;Jack London;Pearson;2007;American English;60; 187 Kè ;2;600;A2;Classic literature;;Audio CD
+MAR-AJ-0076;;Huckleberry Finn;Mark Twain;Oxford;2016;American English;64; 178 Kè ;2;700;A2/B1;Classic literature;;Audio CD
+MAR-AJ-0077;;The Canterville Ghost;Oscar Wilde;Oxford;2016;British English;64; 178 Kè ;2;700;A2/B1;Horror/Fantasy;;Audio CD
+MAR-AJ-0078;;Robinson Crusoe;Daniel Defoe;Oxford;2016;British English;64; 166 Kè ;2;700;A2/B1;Classic literature;;Audio CD
+MAR-AJ-0079;;Phantom of the Opera;Jennifer Bassett;Oxford;2016;British English;64; 166 Kè ;1;400;A1/A2;Horror/Fantasy;;Audio CD
+MAR-AJ-0080;;A Tale of Two Cities;Charles Dickens;Oxford;2016;British English;96; 191 Kè ;3;1400;B1/B2;Classic literature;;Audio CD
+MAR-AJ-0081;;Frankenstein;Mary Shelley;Oxford;2016;British English;80; 191 Kè ;3;1000;B1;Horror/Fantasy;;Audio CD
+MAR-AJ-0082;;Hamlet;William Shakespeare;Oxford;2016;British English;64; 118 Kè ;2;700;A2/B1;Classic literature;Playscripts;
+MAR-AJ-0083;;Romeo and Juliet;William Shakespeare;Oxford;2016;British English;72; 118 Kè ;2;700;A2/B1;Classic literature;Playscripts;
+MAR-AJ-0084;;Romeo & Juliet;William Shakespeare;Macmillan;2006;British English;68; 138 Kè ;3;1400;B1;Classic literature;;
+MAR-AJ-0085;;A Midsummer Night´s Dream;William Shakespeare;Oxford;2014;British English;80; 123 Kè ;3;1000;B1;Classic literature;Comedy;
+MAR-AJ-0086;;Dr Jekyll and Mr Hyde;Robert Luis Stevenson;Oxford;2016;British English;96; 191 Kè ;3;1400;B1/B2;Horror/Fantasy;;Audio CD
+MAR-AJ-0087;;Treasure Island;Robert Luis Stevenson;Pearson;2011;British English;48; 187 Kè ;2;600;A2;Classic literature;Adventure;Audio CD
+MAR-AJ-0088;;Three Men in a Boat;Jerome Klapka Jerome;Oxford;2016;British English;112; 204 Kè ;3;1400;B1/B2;Classic literature;Comedy;Audio CD
+MAR-AJ-0089;;The Hound of Baskervilles;Sir Arthur Conan Doyle;Oxford;2016;British English;112; 191 Kè ;3;1400;B1/B2;Crime/Mystery;;Audio CD
+MAR-AJ-0090;;England;John Escott;Oxford;2016;British English;64; 166 Kè ;1;400;A1/A2;Non-fiction;;Audio CD
+MAR-AJ-0091;;Ireland;Tim Vicary;Oxford;2016;British English;56; 178 Kè ;1;400;A1/A2;Non-fiction;;Audio CD
+MAR-AJ-0092;;Australia and New Zealand;Christine Lindop;Oxford;2016;British English;72; 204 Kè ;2;700;A2/B1;Non-fiction;;Audio CD
+MAR-AJ-0093;;The USA;Alison Baxter;Oxford;2016;British English;80; 191 Kè ;2;700;A2/B1;Non-fiction;;Audio CD
+MAR-AJ-0094;;Information Technology;Paul A. Davis;Oxford;2007;British English;80; 123 Kè ;2;700;A2/B1;Non-fiction;;
+MAR-AJ-0095;;The History of English Language;Brigit Viney;Oxford;2008;British English;112; 132 Kè ;3;1400;B1/B2;Non-fiction;;
+MAR-AJ-0096;;Henry VIII and His Six Wives;Hardy J. Goulde;Oxford;2016;British English;64; 166 Kè ;2;700;A2/B1;Non-fiction;;Audio CD
+MAR-AJ-0097;;William Shakespeare;Jennifer Bassett;Oxford;2016;British English;72; 178 Kè ;2;700;A2/B1;Non-fiction;;Audio CD
+MAR-AJ-0098;;Island of Dr. Moreau;Herbert George Wells;Pearson;2008;British English;56; 179 Kè ;3;1200;A2;Classic literature;Sci-fi/Fantasy;
+MAR-AJ-0099;;The Piano Man;Tim Vicary;Oxford;2020;British English;56; 115 Kè ;1;400;A1/A2;Human interest;;
+MAR-AJ-0100;;The Rest of Us Just Live Here;Patrick Ness;HarperCollins Publishers;2016;American English;317; 189 Kè ;-;-;C2;Comedy;Sci-fi/Fantasy;
+MAR-AJ-0101;;1Q84: The Complete Trilogy;Haruki Murakami;Vintage/Arrow;2012;British English;1318; 291 Kè ;-;-;C2;Sci-fi/Fantasy;;
+MAR-AJ-0102;;A Brief History Of Time;Stephen William Hawking;Bantam Press;2015;British English;256; 182 Kè ;-;-;C2;Popular science;;
+MAR-AJ-0103;;Blood, Sweat, and Pixels : The Triumphan;Jason Schreier;HarperCollins Publishers;2017;American English;290; 262 Kè ;-;-;C2;Non-fiction;;
+MAR-AJ-0104;;Carrying Albert Home : The Somewhat True;Homer Hickam;HarperCollins Publishers;2016;American English;415; 174 Kè ;-;-;C2;Comedy;Biographical historical fiction;
+MAR-AJ-0105;;Cat Among the Pigeons;Agatha Christie;HarperCollins Publishers;2017;British English;312; 138 Kè ;-;-;C2;Crime/Mystery;;
+MAR-AJ-0106;;Fifty Things You Need To Know About Brit;Hugh Williams;HarperCollins Publishers;2009;British English;410; 255 Kè ;-;-;C2;Non-fiction;;
+MAR-AJ-0107;;How To Win Friends And Influence People;Dale Carnegie;Ebury Press;2011;American English;280; 218 Kè ;-;-;C2;Non-fiction;;
+MAR-AJ-0108;;It;Stephen King;Hodder & Stoughton;2011;American English;1378; 182 Kè ;-;-;C2;Horror/Fantasy;;
+MAR-AJ-0109;;My Spritual Life;Dalajláma Xiv;HarperCollins Publishers;2011;American English;284; 291 Kè ;-;-;C2;Non-fiction;Biographical;
+MAR-AJ-0110;;John Lennon;Alex Raynham;Oxford;2016;British English;60; 115 Kè ;1;400;A1/A2;Non-fiction;Biographical;Audio CD
+MAR-AJ-0111;;John F. Kennedy;Anne Collins;Oxford;2014;British English;64; 122 Kè ;2;700;A2/B1;Non-fiction;Biographical;
+MAR-AJ-0112;;Leonardo Da Vinci;Alex Raynham;Oxford;2013;British English;64; 122 Kè ;2;700;A2/B1;Non-fiction;Biographical;
+MAR-AJ-0113;;Seasons&Celebrations;Emily Maquire;Oxford;2011;British English;56; 122 Kè ;2;700;A2/B1;Non-fiction;;
+MAR-AJ-0114;;Information Technology;Paul A. Davis;Oxford;2007;British English;72; 127 Kè ;3;1400;B1/B2;Non-fiction;;
+MAR-AJ-0115;;47 Ronin - A Samurai Story From Japan;Jennifer Bassett;Oxford;2014;British English;64; 115 Kè ;1;400;A1/A2;Adventure;Biographical historical fiction;
+MAR-AJ-0116;;American Crime Stories;John Escott;Oxford;2018;British English;128; 147 Kè ;6;2500;B2/C1;Crime/Mystery;;
+MAR-AJ-0117;;The Fly and Other Horror Stories;John Escott;Oxford;2008;British English;128; 147 Kè ;6;2500;B2/C1;Horror/Fantasy;;
+MAR-AJ-0118;;One Hundred Years of Solitude;Gabriel García Márquez;HarperCollins Publishers;2006;American English;448; 291 Kè ;-;-;C2;Drama/Tragedy;;
+MAR-AJ-0119;;Black Beauty;Anna Sewell;Pearson;2008;British English;44; 171 Kè ;2;600;A2;Classic literature;Adventure;
+MAR-AJ-0120;;Billy Elliot;Melvyn Burgess;Pearson;2008;British English;58; 179 Kè ;3;1200;A2;Classic literature;Cultural and social issues;
+MAR-AJ-0121;;Matilda;Roald Dahl;Pearson;2008;British English;50; 178 Kè ;3;1200;A2;Children's novel;;
+MAR-AJ-0122;;The Hunchback of Notre-Dame;Victor Hugo;Pearson;2008;American English;64; 179 Kè ;3;1200;A2;Classic literature;;
+MAR-AJ-0123;;The Canterville Ghost and Other Stories;Oscar Wilde;Pearson;2008;British English;70; 188 Kè ;4;1700;B1;Classic literature;Horror/Fantasy;
+MAR-AJ-0124;;Tales of Mystery and Imaginati;Edgar Allan Poe;Pearson;2008;British English;110; 192 Kè ;5;2300;B2;Classic literature;Horror/Fantasy;
+MAR-AJ-0125;;The Invisible Man;Herbert George Wells;Pearson;2008;British English;80; 192 Kè ;5;2300;B2;Classic literature;Sci-fi/Fantasy;
+MAR-AJ-0126;;Pøípad levného bytu/The Adventure of the Cheap Flat;Agatha Christie;Garamond;2013;British English;176; 154 Kè ;-;-;C2;Crime/Mystery;;
+MAR-AJ-0127;;Smith of Wootton Major;John Ronald Reuel Tolkien;HarperCollins Publishers;2015;British English;224; 218 Kè ;-;-;C2;Sci-fi/Fantasy;;
+MAR-AJ-0128;;The Egg and I;Betty Macdonald;HarperCollins Publishers;2008;American English;288; 255 Kè ;-;-;C2;Comedy;Biographical;
+MAR-AJ-0129;;The Girl Who saved the King of Sweden;Jonas Jonasson;HarperCollins Publishers;2015;British English;424; 145 Kè ;-;-;C2;Comedy;;
+MAR-AJ-0130;;The Rules of Seeing;Joe Heap;HarperCollins Publishers;2019;British English;411; 145 Kè ;-;-;C2;Romance;Comedy;
+MAR-AJ-0131;;The Stories of English;David Crystal;Penguin Books;2019;British English;584; 291 Kè ;-;-;C2;Non-fiction;;
+MAR-AJ-0132;;The World of David Walliams - Book of Stuff - Fun, Facts and Everything You Never Wanted to Know;David Lewis-Williams;HarperCollins Publishers;2018;British English;80; 274 Kè ;-;-;C2;Comedy;;
+MAR-AJ-0133;;Think and Grow Rich;Napoleon Hill;Ballantine Books;1990;American English;235; 145 Kè ;-;-;C2;Non-fiction;;
+MAR-AJ-0134;;This Explaines Everything;John Brockman;HarperCollins Publishers;2013;British English;411; 218 Kè ;-;-;C2;Non-fiction;;
