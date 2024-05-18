@@ -4,11 +4,9 @@ Webová aplikace s katalogem knih. Knihy jsou evidovány v XLSX, které se jen p
 
 ## URL aplikace
 
-Běžící apka: [http://knihovna.bubileg.cz](http://knihovna.bubileg.cz/)
+Běžící apka: [https://www.skolavdf.cz/knihovna/](https://www.skolavdf.cz/knihovna/)
 
-URL pro generovaný JSON: [http://knihovna.bubileg.cz/books-json](http://knihovna.bubileg.cz/books-json)
-
-Stará no-js verze stojící na PHP: [http://knihovna-php.bubileg.cz](http://knihovna-php.bubileg.cz/)
+URL pro generovaný JSON: [https://www.skolavdf.cz/knihovna/books-json](https://www.skolavdf.cz/knihovna/books-json)
 
 ## Použité technologie
 
