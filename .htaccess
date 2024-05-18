@@ -11,7 +11,7 @@ Options -Indexes
 RewriteEngine On
 
 #RewriteCond %{HTTPS} off [NC]
-#RewriteRule (.*) https://library.skolavdf.cz%{REQUEST_URI} [L,R=301,QSA]
+#RewriteRule (.*) https://www.skolavdf.cz/knihovna/%{REQUEST_URI} [L,R=301,QSA]
 
 # disabling the contents of the files folder
 RewriteRule ^(.*/)?files/.* - [F]

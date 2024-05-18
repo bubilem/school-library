@@ -67,8 +67,9 @@
   right: 0;
   padding: 2em 1em;
   color: #fff;
-  background: rgba(45, 125, 154, 0.9);
+  background: rgba(0, 51, 65, 0.4);
   box-shadow: 0 0 4px 2px rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(10px);
   &.active {
     display: block;
   }
@@ -89,7 +90,7 @@
       }
     }
     input {
-      padding: 0.5em;
+      padding: 1em;
       border: none;
       border-radius: 0.2em;
       background: rgba(255, 255, 255, 0.9);
@@ -101,7 +102,7 @@
     button {
       letter-spacing: 0.1em;
       color: #fff;
-      background: rgb(74, 84, 89);
+      background: darken($blue, 10%);
       margin: 0.25em;
       padding: 0.6em 1em;
       border: none;
@@ -110,12 +111,26 @@
       text-align: center;
       text-transform: uppercase;
       letter-spacing: -0.02em;
-      font-weight: $bold-weight;
+      font-weight: $weight-bold;
       transition: all 0.3s linear;
       cursor: pointer;
+      small {
+        color: lighten($green, 20%);
+      }
       &.active {
-        color: rgb(45, 125, 154);
+        color: $blue;
         background: #fff;
+        small {
+          color: darken($green, 10%);
+        }
+      }
+      &:hover,
+      &.active:hover {
+        color: #fff;
+        background: darken($yellow, 10%);
+        small {
+          color: lighten($green, 20%);
+        }
       }
     }
   }

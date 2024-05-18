@@ -1,19 +1,22 @@
 body {
-  font-size: 12pt;
-  font-family: "Noto Serif", Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-  font-weight: $normal-weight;
+  font-family: "Raleway", sans-serif;
+  font-weight: $weight-normal;
+  font-size: 14px;
   color: #fff;
-  background: rgb(76, 74, 72) linear-gradient(180deg, rgb(76, 74, 72), rgb(56, 60, 62)) fixed;
+  background: linear-gradient(180deg, darken($blue, 22%), darken($blue, 33%))
+      fixed,
+    $blue;
 }
 small {
   position: relative;
   top: -3px;
-  opacity: 0.5;
+  color: $green;
+  opacity: 1;
   font-size: 0.8em;
 }
 a {
   text-decoration: underline;
-  color: rgb(125, 205, 224);
+  color: #ffd400;
 }
 header,
 footer {
@@ -31,13 +34,23 @@ header {
   right: 0;
   height: 3em;
   padding: 0 1.5em;
-  background: rgb(45, 125, 154);
+  background: rgba(0, 51, 65, 0.95);
   box-shadow: 0 0 4px 2px rgba(0, 0, 0, 0.2);
   z-index: 999;
-  h1 {
-    font-size: 1.1em;
-    letter-spacing: 0.25em;
-    font-weight: $bold-weight;
+  .caption {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    gap: 0.5em;
+    img {
+      height: 1.5em;
+    }
+    h1 {
+      font-size: 1.1em;
+      letter-spacing: 0.25em;
+      font-weight: $weight-bold;
+    }
   }
 }
 footer {

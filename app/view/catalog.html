@@ -3,10 +3,16 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="www/css/style.min.css" />
     <title>{title}</title>
+    <meta
+      name="description"
+      content="Knihovna na VOŠ, SPŠ a SOŠ Varnsdorf p.o."
+    />
+    <meta name="keywords" content="knihovna, škola, Varnsdorf" />
+    <meta name="robots" content="noindex, nofollow" />
+    <link rel="stylesheet" href="www/css/style.min.css" />
   </head>
-
+  <link rel="shortcut icon" href="favicon.ico" />
   <body>
     <header>
       <button id="menu-button" class="tip">
@@ -14,7 +20,12 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <h1>{title}</h1>
+      <div class="caption">
+        <div id="logo">
+          <img src="www/img/logo_skolavdf.svg" alt="logo školy" />
+        </div>
+        <h1>{title}</h1>
+      </div>
       <div id="book-count"></div>
     </header>
     <main>
